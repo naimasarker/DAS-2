@@ -1,0 +1,12 @@
+7 11
+vr ps 7
+vr mr 5
+ps bs 8
+ps mr 9
+ps rr 7
+bs rr 5
+mr rr 15
+mr hs 6
+rr hs 8
+rr ke 9
+hs ke 11
